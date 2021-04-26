@@ -1,0 +1,18 @@
+{
+  "nibble": {
+    "damage": 1,
+    "desc": "Gently removes code from\nenemy programs."
+  },
+  "byte": {
+    "damage": 2,
+    "desc": "Removes code, one byte\nat a time."
+  },
+  "swallow": {
+    "damage": 3,
+    "recoil": 1,
+    "desc": "Snake.exe goes all in,\nat a price."
+  },
+  "wormhole": {
+    "desc": "The tenacious worm can\nrelocate anywhere in memory"
+  }
+}

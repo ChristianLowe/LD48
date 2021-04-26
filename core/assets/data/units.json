@@ -1,0 +1,26 @@
+{
+  "unitBug": {
+    "name": "Bug",
+    "maxHealth": 1,
+    "speed": 5,
+    "cost": 1500
+  },
+  "unitRat": {
+    "name": "Rat",
+    "maxHealth": 3,
+    "speed": 2,
+    "cost": 2000
+  },
+  "unitSnek": {
+    "name": "Snake",
+    "maxHealth": 4,
+    "speed": 3,
+    "cost": 5000
+  },
+  "unitWorm": {
+    "name": "Worm",
+    "maxHealth": 3,
+    "speed": 2,
+    "cost": 2000
+  }
+}
